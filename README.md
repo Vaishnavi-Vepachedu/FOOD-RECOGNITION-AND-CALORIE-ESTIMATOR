@@ -1,4 +1,4 @@
-FOOD RECOGNITION AND CALORIE ESTIMATOR
+Food Recognition and Calorie Estimator
 
 This Streamlit app estimates the calorie content of a meal based on an uploaded image.
 It utilizes the powerful Google GenerativeAI Gemini Pro Vision API to analyze the image and identify food items with remarkable accuracy.
